@@ -39,7 +39,8 @@ Files:
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+images/Avatar.png.png
+images/Titanic.png.png
 
 ## 👨‍💻 Author
 
