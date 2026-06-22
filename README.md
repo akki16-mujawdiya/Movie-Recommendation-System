@@ -39,9 +39,9 @@ Files:
 
 ## 📸 Screenshots
 
-images/Avatar.png.png
-images/Titanic.png.png
+![Avatar Recommendation](images/Avatar.png)
 
+![Titanic Recommendation](images/Titanic.png)
 ## 👨‍💻 Author
 
 Akki Mujawdiya
